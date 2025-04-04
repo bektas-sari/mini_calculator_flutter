@@ -1,4 +1,4 @@
-# 🧮 Mini Calculator Flutter App
+# 🧮 Mini Calculator APP (Flutter)
 
 A modern and responsive Flutter app that performs basic arithmetic operations: addition, subtraction, multiplication, and division. 
 Built to help beginners practice input handling, dropdown selections, and state management using Flutter widgets.
