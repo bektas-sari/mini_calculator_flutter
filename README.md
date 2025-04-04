@@ -1,10 +1,7 @@
 # 🧮 Mini Calculator Flutter App
 
-A modern and responsive Flutter app that performs basic arithmetic operations: addition, subtraction, multiplication, and division. Built to help beginners practice input handling, dropdown selections, and state management using Flutter widgets.
-
-## 📸 Screenshot
-
-*Coming Soon*
+A modern and responsive Flutter app that performs basic arithmetic operations: addition, subtraction, multiplication, and division. 
+Built to help beginners practice input handling, dropdown selections, and state management using Flutter widgets.
 
 ## ✨ Features
 
@@ -32,7 +29,7 @@ lib/
 To run this project locally:
 
 ```bash
-git clone https://github.com/your-username/mini_calculator_flutter.git
+git clone https://github.com/bektas-sari/mini_calculator_flutter.git
 cd mini_calculator_flutter
 flutter pub get
 flutter run
@@ -55,7 +52,7 @@ flutter run
 
 ## 👨‍💻 Author
 
-**[@your-username](https://github.com/your-username)**
+**(https://github.com/bektas-sari)**
 
 This application is part of my Flutter learning journey. Designed for short practice sessions with useful functionality.
 
