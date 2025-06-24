@@ -52,7 +52,7 @@ flutter run
 
 ## 👤 Developer
 
-**Bektas Sari**  
+**Bektas SARI**  
 
 Email: bektas.sari@gmail.com  <br>
 GitHub: https://github.com/bektas-sari <br>
